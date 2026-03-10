@@ -1,0 +1,7 @@
+# Only need Python 3.8+ installed. Script auto-installs all packages.
+# But you can also install manually with: pip install -r requirements.txt
+
+gradio_client
+Pillow
+requests
+huggingface_hub

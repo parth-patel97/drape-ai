@@ -1,0 +1,21 @@
+# Environment & secrets
+.env
+
+# Virtual environment
+venv/
+
+# Output images
+drape_output/
+
+# Temp resized images
+_resized_*
+_garment_prepared_*
+_person_prepared_*
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
